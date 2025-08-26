@@ -7,7 +7,7 @@ The goal is to strengthen my Java fundamentals and apply OOP concepts in real-wo
 
 - *Day 1* → Car Rental System (Encapsulation, Composition)
 - *Day 2* → Banking System(Constructor,Encapsulation)
-- *Day 3* → Employee Management (Inheritance, Polymorphism)
+- *Day 3* → Student Grade Management System(Encapsulation)
 - ...
 - *Day 30* → Final Capstone Project
 
