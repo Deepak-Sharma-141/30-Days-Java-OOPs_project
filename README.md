@@ -9,6 +9,8 @@ The goal is to strengthen my Java fundamentals and apply OOP concepts in real-wo
 - *Day 2* → Banking System(Constructor,Encapsulation)
 - *Day 3* → Student Grade Management System(Encapsulation)
 - *Day 4* -> Payment System(Abstraction,Polymorphism)
+- *Day 5* -> Notification System(Interface,Polymorphism)
+- *Day 6* -> Restaurant Ordering System(Encapsulation,Abstraction and Composition)
 - ...
 - *Day 30* → Final Capstone Project
 
